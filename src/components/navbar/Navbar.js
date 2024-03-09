@@ -15,7 +15,7 @@ export default function Navbar() {
     <div className="navbar">
       <div className="title">Irish Cafe</div>
       <div className="links">
-        <Link to="/ecomm-react/product"> Products </Link>
+        <Link to="/ecomm-react/"> Products </Link>
         <Link to="/ecomm-react/cart"> Cart({total}) </Link>
         <Link to="/" onClick={() => setuser((prev) => null)}>
           Logout{" "}
