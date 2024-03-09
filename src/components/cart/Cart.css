@@ -1,0 +1,11 @@
+.Cart-container {
+    display:flex;
+    justify-content: center;
+}
+
+.Cart-items{
+    width:200px
+}
+.Cart-button{
+    width:20px;
+}
