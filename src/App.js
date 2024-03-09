@@ -24,8 +24,8 @@ function App() {
               <Navbar />
               <hr></hr>
               <Routes>
-                <Route path="/" index element={<Products />} />
-                <Route path="/cart" element={<Cart />} />
+                <Route path="/ecomm-react/product" index element={<Products />} />
+                <Route path="/ecomm-react/cart" element={<Cart />} />
               </Routes>
               <Footer/>
             </Router>
