@@ -1,11 +1,14 @@
 .Cart-container {
     display:flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .Cart-items{
-    width:200px
+    width:200px;
+    text-align: left;
+    background-color: silver;
 }
 .Cart-button{
-    width:20px;
+    width:40px;
+    padding:0px
 }
