@@ -19,7 +19,7 @@ export default function Login() {
         <div className="pwdEye">
           <input
             type={visible ? "text" : "password"}
-            placeholder="Enter Password"
+            placeholder="Enter Passcode"
           ></input>
           <span onClick={() => setvisible(() => !visible)}>
             {visible ? <FaEye size={20} /> : <FaEyeSlash size={20} />}
