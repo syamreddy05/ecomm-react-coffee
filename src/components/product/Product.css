@@ -18,9 +18,9 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .Product-button{
-    /* background-color: #3b120f; */
+    /* background-color: green; */
     width: 200px;
-    color: hsl(4, 59%, 15%);
+    color: green;
  
 }
 
