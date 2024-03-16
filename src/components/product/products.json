@@ -4,7 +4,7 @@
         "name": "Java Chip Frappuccino",
         "desc":"We blend mocha sauce and Frappuccino chips with Frappuccino.",
         "price": "123",
-        "image": "/ecomm-react-coffee/images/1.Png"
+        "image": "/ecomm-react-coffee/images/1.png"
     },
     {
         "id": "2",
